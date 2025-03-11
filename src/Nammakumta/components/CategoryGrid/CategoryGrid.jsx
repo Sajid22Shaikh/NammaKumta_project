@@ -6,72 +6,72 @@ const categories = [
   { 
     id: 1, 
     title: 'Hospital', 
-    image: 'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=300&h=200&fit=crop' 
+    image: 'https://pics.craiyon.com/2024-09-06/QDWqBYpMTZ-vJVFdzuN7GA.webp' 
   },
   { 
     id: 2, 
     title: 'Departments', 
-    image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=300&h=200&fit=crop' 
+    image: 'https://cbin.b-cdn.net/img/GO/Government-of-India01_9CFDJ_800x582.jpeg' 
   },
   { 
     id: 3, 
     title: 'Associations', 
-    image: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=300&h=200&fit=crop' 
+    image: 'https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg' 
   },
   { 
     id: 4, 
     title: 'Banks', 
-    image: 'https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=300&h=200&fit=crop' 
+    image: 'https://t4.ftcdn.net/jpg/00/61/06/27/360_F_61062796_NF87GPnWV0fQ2LhoYNlyjev0PocRwZj9.jpg' 
   },
   { 
     id: 5, 
     title: 'Tourism', 
-    image: 'https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=300&h=200&fit=crop' 
+    image: 'https://images.pexels.com/photos/1268855/pexels-photo-1268855.jpeg' 
   },
   { 
     id: 6, 
     title: 'Hotels', 
-    image: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=300&h=200&fit=crop' 
+    image: 'https://images.otstatic.com/prod/24065351/1/large.jpg' 
   },
   { 
     id: 7, 
     title: 'RentVehicles', 
-    image: 'https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=300&h=200&fit=crop' 
+    image: 'https://img.freepik.com/premium-photo/car-rental-k…-hand-rent-car-from-rental-agency_294383-9193.jpg' 
   },
   { 
     id: 8, 
     title: 'WeddingPlann', 
-    image: 'https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=300&h=200&fit=crop' 
+    image: 'https://i.pinimg.com/236x/86/04/60/8604607fbce1a7515824ada352bdbd51.jpg' 
   },
   { 
     id: 9, 
     title: 'Shops', 
-    image: 'https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=300&h=200&fit=crop' 
+    image: 'https://cdn.pixabay.com/photo/2020/11/20/17/15/local-store-5762254_640.png' 
   },
   { 
     id: 10, 
     title: 'Services', 
-    image: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&h=200&fit=crop' 
+    image: 'https://blog.renovationfind.com/wp-content/uploads/2023/12/Handyman-Services-800x450-2.jpg' 
   },
   { 
     id: 11, 
     title: 'Emergency', 
-    image: 'https://images.unsplash.com/photo-1588421357574-87938a86fa28?w=300&h=200&fit=crop' 
+    image: 'https://media.istockphoto.com/id/498429644/vector/empty-red-box-with-in-case-of-emergency.jpg?s=612x612&w=0&k=20&c=MADP-BKUiwEHcm959qrO1et81GU9FwskpAk0ALniXxA=' 
   },
   { 
     id: 12, 
     title: 'Schools & Colleges', 
-    image: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=300&h=200&fit=crop' 
+    image: 'https://img.freepik.com/premium-photo/schoolboys-near-school-building-india_78361-13841.jpg' 
   },
   { 
     id: 13, 
     title: 'CulturalProgra', 
-    image: 'https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=300&h=200&fit=crop' 
+    image: 'https://media.istockphoto.com/id/1648171369/photo/yakshagana-artist-showing-happiness.jpg?b=1&s=612x612&w=0&k=20&c=mh9VdX2Kc9mCLWLkCv5k16pgTcaJnsfVwP4QK9nS8Ek=' 
   },
   { 
     id: 14, 
     title: 'Sports & Equipment', 
-    image: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=300&h=200&fit=crop' 
+    image: 'https://media.istockphoto.com/id/2002620668/photo/female-runner-in-a-park-stock-photo.jpg?b=1&s=612x612&w=0&k=20&c=fKpqpuW7gGl0lZTyQknr-e9TDL2-M3rfOXsNu9hSowI=' 
   }
 ];
 
