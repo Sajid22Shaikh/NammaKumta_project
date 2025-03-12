@@ -1,17 +1,35 @@
 import React from 'react';
+import { RouterProvider, createBrowserRouter } from 'react-router';
 import SearchBar from './components/SearchBar/SearchBar';
 import CategoryGrid from './components/CategoryGrid/CategoryGrid';
 import Navigation from './components/Navigation/Navigation';
+import CategoryPage from './components/CategoryPage/CategoryPage';
 import './App.css';
 
-function App() {
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: (
+      <>
+        <SearchBar />
+        <CategoryGrid />
+      </>
+    ),
+  },
+  {
+    path: "/category/:id",
+    element: <CategoryPage />,
+  }
+]);
+
+const App = () => {
   return (
-    <div className="app">
-      <SearchBar />
-      <CategoryGrid />
-      <Navigation />
-    </div>
+    <RouterProvider router={router}>
+      <div className="app">
+        <Navigation />
+      </div>
+    </RouterProvider>
   );
-}
+};
 
 export default App;
