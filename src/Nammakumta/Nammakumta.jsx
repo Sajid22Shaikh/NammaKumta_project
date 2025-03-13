@@ -24,10 +24,12 @@ const router = createMemoryRouter([
 
 export const Nammakumta = () => {
   return (
+    <>
+    <div className="app">
     <RouterProvider router={router}>
-      <div className="app">
-        <Navigation />
-      </div>
     </RouterProvider>
+    <Navigation/>
+    </div>
+    </>
   );
 };
