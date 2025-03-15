@@ -8,12 +8,12 @@ export const categoryData = [
     image: 'https://pics.craiyon.com/2024-09-06/QDWqBYpMTZ-vJVFdzuN7GA.webp',
   
     subcategories: [
-      { name: 'Cardiologists', icon: <Heart size={24} /> },
-      { name: 'Heart Specialists', icon: <Activity size={24} /> },
-      { name: 'Child Specialists', icon: <Baby size={24} /> },
-      { name: 'Dentist', icon: <Tooth size={24} /> },
-      { name: 'Bone & Joints Doctors', icon: <Bone size={24} /> },
-      { name: 'Orthopedic Doctors', icon: <Stethoscope size={24} /> }
+      { name: 'Cardiologists', icon: <Heart size={25} /> },
+      { name: 'Heart Specialists', icon: <Activity size={25} /> },
+      { name: 'Child Specialists', icon: <Baby size={25} /> },
+      { name: 'Dentist', icon: <Tooth size={25} /> },
+      { name: 'Bone & Joints Doctors', icon: <Bone size={25} /> },
+      { name: 'Orthopedic Doctors', icon: <Stethoscope size={25} /> }
     ]
   },
   {
